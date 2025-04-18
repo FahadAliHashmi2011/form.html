@@ -21,7 +21,14 @@
      <labeL> favourite city </labelL><br>
     <input type="checkbox" id="city" value="new delhi">new delhi <br>
     <input type="checkbox" id="city" value="lahore">lahore <br><br>
-    <input type="submit">
+<label> medical requries</label><br>
+    <input type="text" id="medical requries"><br><br>
+    <label>social media accounts</label><br>
+    <input type="checkbox" id =account value="instagram">instagram<br>
+    <input type="checkbox" id =account value="snapchat">snapchat<BR>
+      <input type="checkbox" id =account value="tiktok">tiktok<BR>
+        <input type="checkbox" id =account value="none of the above">none of the above <BR> <br>
+<input type="submit">
 
 </form>
 </body>
